@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plushie Game <3</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h3>Plushie Game ۶ৎ</h3>
+    
+    <div class="score-board">
+        <div class="game-info">Score: <span id="score">0</span></div>
+        <div class="game-info">Attempts: <span id="attempts">10</span></div>
+    </div>
+    
+    <div class="container" id="gameContainer">
+        <div class="claw" id="claw"></div>
+        <div class="plushies" id="plushies"></div>
+        <div class="prize-display" id="prizeDisplay">Collected plushies will appear here!</div>
+    </div>
+    
+    <div class="controls">
+        <button onclick="moveClaw('left')" id="leftBtn">← Move Left</button>
+        <button onclick="dropClaw()" id="dropBtn">🎯 Drop Claw</button>
+        <button onclick="moveClaw('right')" id="rightBtn">Move Right →</button>
+    </div>
+    
+    <div class="controls">
+        <button onclick="resetGame()" id="resetBtn">🔄 Reset Game</button>
+        <button onclick="addPlushies()" id="addBtn">➕ Add More Plushies</button>
+    </div>
+    
+    <div class="message" id="message">Use the buttons to move the claw and try to catch plushies!</div>
+
+    <script src="script.js"></script>
+</body>
+</html>

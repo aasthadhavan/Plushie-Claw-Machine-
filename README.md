@@ -38,6 +38,7 @@ Move the claw, time it carefully, and see if you can collect the cutest plushies
 *(Disclaimer: The claw's success rate may or may not resemble real arcade machines...)
 
 <h3>Future Ideas</h3>
+
 - More plushie characters
 - Arcade sound effects
 - Particle animations

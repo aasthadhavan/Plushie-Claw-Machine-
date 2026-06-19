@@ -35,6 +35,7 @@ in your browser.
 
 <h3>Objective</h3>
 Move the claw, time it carefully, and see if you can collect the cutest plushies before luck runs out!
+
 *(Disclaimer: The claw's success rate may or may not resemble real arcade machines...)
 
 <h3>Future Ideas</h3>

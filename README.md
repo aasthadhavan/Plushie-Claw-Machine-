@@ -1,6 +1,4 @@
 <h2>Plushie Claw Machine 🎀</h2> 
-> *"Just one more try... I'm sure I'll win this time."* 
-
 A cute little browser-based claw machine game where you try your luck at grabbing adorable plushies! Inspired by the arcade claw machines that somehow always seem to have a mind of their own. 
 
 <h3>Features</h3>

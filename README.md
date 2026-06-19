@@ -2,6 +2,7 @@
 A cute little browser-based claw machine game where you try your luck at grabbing adorable plushies! Inspired by the arcade claw machines that somehow always seem to have a mind of their own. 
 
 <h3>Features</h3>
+
 - Cute claw machine gameplay  
 - Interactive controls  
 - Smooth animations  
@@ -10,6 +11,7 @@ A cute little browser-based claw machine game where you try your luck at grabbin
 
 
 <h3>Built With</h3>
+
 - 🌐 HTML5
 - 🎨 CSS3
 - ⚡ JavaScript
